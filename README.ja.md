@@ -78,4 +78,4 @@ JavaScriptを学習中の初心者Web開発者
 
 ## プレビュー
 
-![アプリのスクリーンショット](images/screenshot.png)
+![アプリのスクリーンショット](../images/screenshot.png)
