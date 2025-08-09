@@ -79,4 +79,4 @@ Languages: English, Hindi, Nepali, Japanese (N3)
 
 ## Preview
 
-![App Screenshot](../images/screenshot.png)
+![App Screenshot](images/screenshot.png)
