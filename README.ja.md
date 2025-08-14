@@ -60,7 +60,7 @@ To-Do List/
 
 ## Live Demo
 
-[🔗 View Demo](hhttps://to-doapp1630.netlify.app)
+[🔗 View Demo](https://to-doapp1630.netlify.app)
 
 ---
 
