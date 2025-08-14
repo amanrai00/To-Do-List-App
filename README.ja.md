@@ -58,6 +58,12 @@ To-Do List/
 
 ---
 
+## Live Demo
+
+[🔗 View Demo](hhttps://to-doapp1630.netlify.app)
+
+---
+
 ## 今後追加したい機能
 
 - ダークモード切り替え機能
@@ -69,10 +75,10 @@ To-Do List/
 
 ## 作成者
 
-**Aman Rai**  
-JavaScriptを学習中の初心者Web開発者  
-現在は **東京在住**  
-対応言語：英語・ヒンディー語・ネパール語・日本語（N3）
+アマン・ライ (Aman Rai)
+JavaScript を学習中の初心者 Web 開発者
+現在 **日本・東京** 在住
+使用言語：英語、ヒンディー語、ネパール語、日本語（N3）
 
 ---
 
